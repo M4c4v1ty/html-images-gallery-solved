@@ -37,10 +37,10 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
+- [X] Fork the project to your github account
+- [X] Clone the project to your computer
+- [X] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [X] Initialize playwright and install project packages
   - [ ] Use `npm i` to install packages
   - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (~160mb will be downloaded)
@@ -64,10 +64,10 @@ This assignment should prove that a student is able to:
 
 **For the index.html file:**
 
-- [ ] Connect the scripts.js file
-- [ ] Connect the layout.css file
-- [ ] Connect the images-list.css file
-- [ ] Add the image file path for each gallery item's image
+- [X] Connect the scripts.js file
+- [X] Connect the layout.css file
+- [X] Connect the images-list.css file
+- [X] Add the image file path for each gallery item's image
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
